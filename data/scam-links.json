@@ -1,0 +1,220 @@
+{
+
+  "last_updated": "2025-08-18",
+
+  "sources": [
+
+    "manual",
+
+    "openphish",
+
+    "phishtank",
+
+    "community-reported",
+
+    "discord-reported"
+
+  ],
+
+  "domains": [
+    "paypal-login-secure.com",
+
+    "paypal-service.com",
+
+    "secure-paypal.net",
+
+    "paypalverify.net",
+
+    "account-update-paypal.com",
+
+    "paypal-helpdesk.net",
+
+    "chaseonline-login.com",
+
+    "chase-secure.net",
+
+    "boa-update.net",
+
+    "wellsfargo-secure.net",
+
+    "hsbc-login-auth.com",
+
+    "citibank-update.net",
+
+    "creditunion-login.com",
+
+    "bankofamerica-login.com",
+
+    "firstnational-login.net",
+
+    "binanceairdrop.com",
+
+    "binancebonus.net",
+
+    "coinbase-bonus.net",
+
+    "coinbasepromo.org",
+
+    "crypto-giveaway.org",
+
+    "crypto-bonus.net",
+
+    "eth-giveaway.org",
+
+    "btc-giveaway.net",
+
+    "dogecoin-giveaway.org",
+
+    "tesla-crypto.net",
+
+    "elonmusk-giveaway.net",
+
+    "discordnitro-free.xyz",
+
+    "freediscordnitro.com",
+
+    "getnitro-discord.org",
+
+    "gift-nitro.net",
+
+    "discord-airdrop.com",
+
+    "nitrogiveaway.net",
+
+    "steam-giveaway.net",
+
+    "steampowered-gifts.com",
+
+    "free-steam-cards.net",
+
+    "getsteamgames.xyz",
+
+    "steamcommunity-login.net",
+
+    "epic-games-free.xyz",
+
+    "fortnitebonus.net",
+
+    "epicgamesgiftcards.com",
+
+    "freevbucks.net",
+
+    "robuxclaim.net",
+
+    "robloxfreebucks.net",
+
+    "minecraft-premium.net",
+
+    "valorant-giveaway.net",
+
+    "appleid-login.net",
+
+    "icloudverify.net",
+
+    "appleid-reset.com",
+
+    "support-appleid.com",
+
+    "secure-icloud.net",
+
+    "amaz0n-prime.com",
+
+    "amazon-giftcards.net",
+
+    "amazon-update.net",
+
+    "amazonverify.org",
+
+    "amazonsupport-login.com",
+
+    "microsoft-login-secure.com",
+
+    "office365-verify.net",
+
+    "outlooksecurity.net",
+
+    "msn-login-auth.com",
+
+    "windowsupdate-secure.net",
+
+    "netflix-verify.net",
+
+    "netflix-login-secure.com",
+
+    "netflixbilling.net",
+
+    "netflixaccountupdate.com",
+
+    "spotify-free-premium.net",
+
+    "spotify-verify.org",
+
+    "hulu-freepromo.net",
+
+    "disneyplus-verify.com",
+
+    "hbomax-bonus.net",
+
+    "nikeoutletstore.net",
+
+    "adidasclearance.org",
+
+    "rayban-sale.net",
+
+    "cheapjordanshop.com",
+
+    "uggbootdiscount.net",
+
+    "northfaceoutlet.org",
+
+    "lvbags-discount.com",
+
+    "guccibags-outlet.net",
+
+    "supremeoutletsale.com",
+
+    "irs-taxrefund.net",
+
+    "gov-refund.org",
+
+    "socialsecurity-verify.com",
+
+    "unemploymentbenefits.net",
+
+    "grant-funding.org",
+
+    "studentloanrelief.net",
+
+    "covid19-relieffund.net",
+
+    "usagov-verify.net"
+
+  ],
+
+  "urls": [
+
+    "http://discordnitrofree.xyz/gift",
+
+    "http://steam-giveaway.net/free",
+
+    "https://paypal-login-secure.com/signin",
+
+    "https://robuxclaim.net/free",
+
+    "http://binanceairdrop.com/rewards",
+
+    "https://amazon-giftcards.net/claim",
+
+    "http://appleid-login.net/reset",
+
+    "https://netflix-verify.net/update",
+
+    "http://irs-taxrefund.net/apply",
+
+    "https://studentloanrelief.net/claim",
+
+    "http://covid19-relieffund.net/aid"
+
+  ]
+
+}

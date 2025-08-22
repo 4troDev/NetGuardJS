@@ -1,0 +1,33 @@
+{
+  "name": "netguardjs",
+  "version": "1.0.0",
+  "description": " Lightweight phishing and scam link detector for JavaScript apps and Discord bots.",
+  "keywords": [
+    "security",
+    "phishing",
+    "scam",
+    "blocklist",
+    "discord",
+    "url",
+    "link",
+    "filter"
+  ],
+  "homepage": "https://github.com/4troDev/NetGuardJS#readme",
+  "bugs": {
+    "url": "https://github.com/4troDev/NetGuardJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4troDev/NetGuardJS.git"
+  },
+  "license": "(MIT and GNU GPL v3)",
+  "author": "4trodev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
